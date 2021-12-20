@@ -1,4 +1,4 @@
-msg = "𝐏𝐒𝐘𝐂𝐌𝐎𝐉𝐓𝐀𝐁𝐀"; +  msg;pos = 0;
+msg = "psycmojtaba"; +  msg;pos = 0;
 msg = msg+' | ';
 function scrollMSG() {
 document.title = msg.substring(pos, msg.length) + msg.substring(0, pos);
