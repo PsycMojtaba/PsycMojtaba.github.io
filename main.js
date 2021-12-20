@@ -86,7 +86,7 @@ async function getInputValue(){
   }
   else if(value === "about me"){
     trueValue(value);
-    createText("Hello buddy Iam Mojtaba ")
+    createText("hi buddy I am Mojtaba ")
     createText("I'm 18 years old And I am a humanities student and I am interested in graphic and psychological works.")
   }
   else if(value === "social -a"){
